@@ -10,7 +10,8 @@
 	<CGEMdiWorkspace type="e">
 			<stubList type="c">
 				<IRPYRawContainer type="e">
-					<size type="a">0</size>
+					<size type="a">1</size>
+					<value>GUID 018fd50e-cdfb-4d1c-8d00-c6e75ba697d6</value>
 				</IRPYRawContainer>
 			</stubList>
 			<isLoadOnDemand type="a">0</isLoadOnDemand>
@@ -44,14 +45,14 @@
 							</IHandle>
 						</_theDiagram>
 						<_UpLeft type="a">0 230 </_UpLeft>
-						<_DownRight type="a">912 703 </_DownRight>
+						<_DownRight type="a">911 703 </_DownRight>
 						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
 						<m_bIsActiveView type="a">1</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
 				</IRPYRawContainer>
 			</myViewsWithID>
-			<_fullName type="a">Z:\ProyectoMatriculaDeCursos\ProyectoMatriculaDeCursos</_fullName>
+			<_fullName type="a">Z:\ADS2-Team\3 IBM\ProyectoMatriculaDeCursos\ProyectoMatriculaDeCursos</_fullName>
 			<_selectedPerspective type="a">Advanced</_selectedPerspective>
 			<m_SearchScopeList type="c">
 				<IRPYRawContainer type="e">

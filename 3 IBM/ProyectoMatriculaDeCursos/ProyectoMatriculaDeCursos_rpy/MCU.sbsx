@@ -11,7 +11,7 @@
 			<_id type="a">GUID b7c9ee05-ba12-478b-a8ec-a4c4c8dc4f9b</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">MCU</_name>
-			<_modifiedTimeWeak type="a">3.2.2021::3:52:43</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">3.1.2021::23:26:21</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -19,9 +19,9 @@
 					<_hid type="a">GUID 648df644-341a-491b-a714-2d766050ad4b</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">3.2.2021::4:0:3</_modifiedTime>
+			<_modifiedTime type="a">3.1.2021::23:26:21</_modifiedTime>
 			<_lastID type="a">29</_lastID>
-			<weakCGTime type="a">3.2.2021::3:52:43</weakCGTime>
+			<weakCGTime type="a">3.1.2021::23:26:21</weakCGTime>
 			<strongCGTime type="a">5.26.2013::5:5:44</strongCGTime>
 			<_defaultComposite type="s">GUID 0efc5a46-059b-486f-96ef-0c2d1a57550c</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -409,8 +409,8 @@
 			</_properties>
 			<_name type="a">Diagrama_Gral_MCU_CUN01</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::3:54:49</_modifiedTime>
-			<_lastModifiedTime type="a">3.2.2021::3:54:49</_lastModifiedTime>
+			<_modifiedTime type="a">3.1.2021::23:28:52</_modifiedTime>
+			<_lastModifiedTime type="a">3.1.2021::23:28:52</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -488,13 +488,13 @@
 				<value>GUID 41758c43-ce91-434a-b094-7fc9b657cb51</value>
 				<value>GUID c7ead63b-703d-4808-af12-c81769b8f298</value>
 				<value>GUID 9a33f957-254d-4619-a3a9-161cabfdbe35</value>
-				<value>GUID 9ea708c5-13ac-4ca4-92a9-bb8b9b208660</value>
 				<value>GUID 55cc1f89-31e7-40a7-9ed7-f56cdb4594c1</value>
 				<value>GUID 395c56f3-a845-4008-bf3a-7edfaeab20ea</value>
 				<value>GUID 6cb7172c-835c-4286-ab91-dfb4d44ca1db</value>
 				<value>GUID c3f5a51b-a65e-4ab1-9998-2d9450bd0f71</value>
 				<value>GUID 396af5a2-23fe-40e4-aa05-e607e2dba3b7</value>
 				<value>GUID 8af8e827-8f3a-4fef-b9ff-7ceabff6cb36</value>
+				<value>GUID b0056900-e13a-43f4-8794-b2f685a7d2c0</value>
 			</AggregatesList>
 		</CGIClassChart>
 		<CGIClass type="e">
@@ -777,7 +777,7 @@
 			<m_pParent type="s">GUID 893d9ee2-2f92-467c-9615-3c26f2466779</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">CU06_Registro Matricula</m_str>
+					<m_str type="a">CU06_Registrar Matricula</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -793,7 +793,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.124004 0 0 0.0606909 384.248 356.061 </m_transform>
+			<m_transform type="a">0.124004 0 0 0.0606909 413.248 350.061 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -1441,9 +1441,9 @@
 			</m_name>
 			<m_drawBehavior type="a">4096</m_drawBehavior>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
-			<m_pSource type="s">GUID e2c965b9-cc6a-4bff-9f5e-723bb8d1bd7c</m_pSource>
+			<m_pSource type="s">GUID 3b0dfec9-193a-4960-8770-615d81539160</m_pSource>
 			<m_sourceType type="a">'F'</m_sourceType>
-			<m_pTarget type="s">GUID 3b0dfec9-193a-4960-8770-615d81539160</m_pTarget>
+			<m_pTarget type="s">GUID e2c965b9-cc6a-4bff-9f5e-723bb8d1bd7c</m_pTarget>
 			<m_targetType type="a">'T'</m_targetType>
 			<m_direction type="a">' '</m_direction>
 			<m_rpn type="p">
@@ -1465,8 +1465,8 @@
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">0</m_line_style>
-			<m_SourcePort type="a">562 526 </m_SourcePort>
-			<m_TargetPort type="a">889 283 </m_TargetPort>
+			<m_SourcePort type="a">675 262 </m_SourcePort>
+			<m_TargetPort type="a">103 839 </m_TargetPort>
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
@@ -1612,9 +1612,9 @@
 			</m_name>
 			<m_drawBehavior type="a">4096</m_drawBehavior>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
-			<m_pSource type="s">GUID 2dbf6f99-e8f8-4d75-aa2f-6202a7ca5876</m_pSource>
+			<m_pSource type="s">GUID 3b0dfec9-193a-4960-8770-615d81539160</m_pSource>
 			<m_sourceType type="a">'F'</m_sourceType>
-			<m_pTarget type="s">GUID 3b0dfec9-193a-4960-8770-615d81539160</m_pTarget>
+			<m_pTarget type="s">GUID 2dbf6f99-e8f8-4d75-aa2f-6202a7ca5876</m_pTarget>
 			<m_targetType type="a">'T'</m_targetType>
 			<m_direction type="a">' '</m_direction>
 			<m_rpn type="p">
@@ -1636,8 +1636,8 @@
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">0</m_line_style>
-			<m_SourcePort type="a">562 526 </m_SourcePort>
-			<m_TargetPort type="a">1231 530 </m_TargetPort>
+			<m_SourcePort type="a">1259 592 </m_SourcePort>
+			<m_TargetPort type="a">143 922 </m_TargetPort>
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
@@ -2056,7 +2056,7 @@
 			<m_pParent type="s">GUID 893d9ee2-2f92-467c-9615-3c26f2466779</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">CU08_Contenido Curso POR DEFINIR</m_str>
+					<m_str type="a">CU08_Generar CDP</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2072,7 +2072,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.0965456 0 0 0.0504202 415.193 448.05 </m_transform>
+			<m_transform type="a">0.0965456 0 0 0.0504202 400.193 453.05 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -2094,177 +2094,6 @@
 			<m_nNameFormat type="a">0</m_nNameFormat>
 			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
 		</CGIBasicClass>
-		<CGIAssociationEnd type="e">
-			<_id type="a">GUID 9ea708c5-13ac-4ca4-92a9-bb8b9b208660</_id>
-			<m_type type="a">94</m_type>
-			<m_pModelObject type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hid type="a">GUID 8b1ecffd-d913-4bff-8845-a3fe850709d5</_hid>
-				</IHandle>
-			</m_pModelObject>
-			<m_pParent type="s"></m_pParent>
-			<m_name type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">0</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_name>
-			<m_drawBehavior type="a">4096</m_drawBehavior>
-			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
-			<m_pSource type="s">GUID 3b0dfec9-193a-4960-8770-615d81539160</m_pSource>
-			<m_sourceType type="a">'F'</m_sourceType>
-			<m_pTarget type="s">GUID 9a33f957-254d-4619-a3a9-161cabfdbe35</m_pTarget>
-			<m_targetType type="a">'T'</m_targetType>
-			<m_direction type="a">' '</m_direction>
-			<m_rpn type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">0</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">7</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_rpn>
-			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
-			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
-			<m_line_style type="a">0</m_line_style>
-			<m_SourcePort type="a">718 818 </m_SourcePort>
-			<m_TargetPort type="a">29 316 </m_TargetPort>
-			<m_pInverseModelObject type="r">
-				<IAssociationEndHandle type="e">
-					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hid type="a">GUID 41fc5ced-0c68-41e7-85da-e0ea7b43178c</_hid>
-				</IAssociationEndHandle>
-			</m_pInverseModelObject>
-			<m_pInstance type="r">
-				<IObjectLinkHandle type="e">
-				</IObjectLinkHandle>
-			</m_pInstance>
-			<m_pInverseInstance type="r">
-				<IObjectLinkHandle type="e">
-				</IObjectLinkHandle>
-			</m_pInverseInstance>
-			<m_bShowSourceMultiplicity type="a">0</m_bShowSourceMultiplicity>
-			<m_bShowSourceRole type="a">0</m_bShowSourceRole>
-			<m_bShowTargetMultiplicity type="a">0</m_bShowTargetMultiplicity>
-			<m_bShowTargetRole type="a">0</m_bShowTargetRole>
-			<m_bShowLinkName type="a">1</m_bShowLinkName>
-			<m_bShowSpecificType type="a">0</m_bShowSpecificType>
-			<m_bInstance type="a">0</m_bInstance>
-			<m_bShowQualifier1 type="a">0</m_bShowQualifier1>
-			<m_bShowQualifier2 type="a">0</m_bShowQualifier2>
-			<m_sourceRole type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">2</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-				</CGIText>
-			</m_sourceRole>
-			<m_targetRole type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">3</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-				</CGIText>
-			</m_targetRole>
-			<m_sourceMultiplicity type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">4</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-				</CGIText>
-			</m_sourceMultiplicity>
-			<m_targetMultiplicity type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">5</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-				</CGIText>
-			</m_targetMultiplicity>
-			<m_sourceQualifier type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">6</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_sourceQualifier>
-			<m_targetQualifier type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">7</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_targetQualifier>
-			<m_specificType type="a">symmetric_type</m_specificType>
-		</CGIAssociationEnd>
 		<CGIBasicClass type="e">
 			<_id type="a">GUID 55cc1f89-31e7-40a7-9ed7-f56cdb4594c1</_id>
 			<m_type type="a">125</m_type>
@@ -2825,6 +2654,65 @@
 			</m_targetQualifier>
 			<m_specificType type="a">symmetric_type</m_specificType>
 		</CGIAssociationEnd>
+		<CGIInheritance type="e">
+			<_id type="a">GUID b0056900-e13a-43f4-8794-b2f685a7d2c0</_id>
+			<m_type type="a">128</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDependency</_hm2Class>
+					<_hid type="a">GUID 37aa8e66-af06-488e-bc85-a7730fa8e674</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">CU08_Generar CDP</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4104</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_pSource type="s">GUID 2dbf6f99-e8f8-4d75-aa2f-6202a7ca5876</m_pSource>
+			<m_sourceType type="a">'F'</m_sourceType>
+			<m_pTarget type="s">GUID 9a33f957-254d-4619-a3a9-161cabfdbe35</m_pTarget>
+			<m_targetType type="a">'T'</m_targetType>
+			<m_direction type="a">' '</m_direction>
+			<m_rpn type="p">
+				<CGIText type="e">
+					<m_str type="a">include</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_rpn>
+			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
+			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
+			<m_line_style type="a">0</m_line_style>
+			<m_SourcePort type="a">506 1054 </m_SourcePort>
+			<m_TargetPort type="a">651 -1 </m_TargetPort>
+			<m_ShowName type="a">0</m_ShowName>
+			<m_ShowStereotype type="a">1</m_ShowStereotype>
+		</CGIInheritance>
 		<IClass type="e">
 			<_id type="a">GUID 0efc5a46-059b-486f-96ef-0c2d1a57550c</_id>
 			<_myState type="a">40960</_myState>
@@ -2843,9 +2731,9 @@
 			<_id type="a">GUID 44efc45f-755b-4bc3-b130-fb31825ed48d</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">CU03_Explorar Cursos</_name>
-			<_modifiedTimeWeak type="a">5.26.2013::9:59:48</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::3:41:2</_modifiedTime>
-			<_lastID type="a">4</_lastID>
+			<_modifiedTimeWeak type="a">3.2.2021::3:37:8</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::23:26:48</_modifiedTime>
+			<_lastID type="a">5</_lastID>
 			<weakCGTime type="a">3.2.2021::3:37:8</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
 			<_itsStateChart type="r">
@@ -2865,7 +2753,7 @@
 				<value>GUID 5d82297d-e718-4243-b2ce-53d98cb5a64a</value>
 				<value>GUID 8608a93e-6298-4b3e-82d2-2da4c30a7f00</value>
 				<value>GUID 017fc416-26a2-453d-b495-b1987b310f19</value>
-				<value>GUID 044561ae-d610-4fce-bfa2-e28f58ba9a7c</value>
+				<value>GUID b317722f-af34-40f2-bc0c-020d97731c65</value>
 			</AggregatesList>
 		</IUseCase>
 		<IDependency type="e">
@@ -3041,11 +2929,11 @@
 			<_navigability type="a">Navigable</_navigability>
 		</IAssociationEnd>
 		<IAssociationEnd type="e">
-			<_id type="a">GUID 044561ae-d610-4fce-bfa2-e28f58ba9a7c</_id>
+			<_id type="a">GUID b317722f-af34-40f2-bc0c-020d97731c65</_id>
 			<_myState type="a">10240</_myState>
 			<_name type="a">itsAlumno_1</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::3:41:2</_modifiedTime>
+			<_modifiedTime type="a">3.1.2021::23:26:48</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
@@ -3056,11 +2944,11 @@
 			<_inverse type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hid type="a">GUID b317722f-af34-40f2-bc0c-020d97731c65</_hid>
+					<_hid type="a">GUID 044561ae-d610-4fce-bfa2-e28f58ba9a7c</_hid>
 				</IHandle>
 			</_inverse>
 			<_linkType type="a">Assoc</_linkType>
-			<_navigability type="a">Navigable</_navigability>
+			<_navigability type="a">NonNavigable</_navigability>
 		</IAssociationEnd>
 		<IUseCase type="e">
 			<_id type="a">GUID bc8fdf1d-4ef0-4c06-bf80-6d767624d073</_id>
@@ -3130,13 +3018,19 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">CU04_Buscar Categoria</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::3:37:3</_modifiedTime>
+			<_modifiedTime type="a">3.1.2021::23:26:48</_modifiedTime>
+			<_lastID type="a">1</_lastID>
 			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
 			</_itsStateChart>
+			<Associations type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Associations>
 			<_classModifier type="a">Unspecified</_classModifier>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
@@ -3266,7 +3160,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">Generar certificado</_name>
 			<_modifiedTimeWeak type="a">5.26.2013::10:4:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::3:33:25</_modifiedTime>
+			<_modifiedTime type="a">3.1.2021::23:27:48</_modifiedTime>
 			<_lastID type="a">4</_lastID>
 			<weakCGTime type="a">5.26.2013::10:4:0</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
@@ -3323,7 +3217,7 @@
 		<IDependency type="e">
 			<_id type="a">GUID fd14e148-6faf-4a41-8e8b-69ac47617aed</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">CU06_Registro Matricula</_name>
+			<_name type="a">CU06_Registrar Matricula</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">1</size>
@@ -3338,7 +3232,7 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">5.26.2013::10:3:36</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::3:35:15</_modifiedTime>
+			<_modifiedTime type="a">3.1.2021::23:27:48</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
@@ -3447,10 +3341,10 @@
 		<IUseCase type="e">
 			<_id type="a">GUID 81a00da7-3762-4a1e-ac1c-0218dd120703</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">CU06_Registro Matricula</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::3:42:38</_modifiedTime>
-			<_lastID type="a">4</_lastID>
+			<_name type="a">CU06_Registrar Matricula</_name>
+			<_modifiedTimeWeak type="a">3.2.2021::3:42:38</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::23:27:48</_modifiedTime>
+			<_lastID type="a">6</_lastID>
 			<weakCGTime type="a">3.2.2021::3:42:38</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
 			<_itsStateChart type="r">
@@ -3467,10 +3361,11 @@
 				<value>GUID a1af9448-042c-4364-ae1c-6104f599a2e2</value>
 				<value>GUID 3ef9c0fb-3a8b-44e3-8b21-f501029d566f</value>
 				<value>GUID 0ae9904f-2c71-415c-85d2-079d3e0dc842</value>
+				<value>GUID 37aa8e66-af06-488e-bc85-a7730fa8e674</value>
 				<value>GUID fe2ebea3-9959-428f-af3c-0647c5549caf</value>
 				<value>GUID 5d40851d-6525-4e1f-b71b-b35c153f7f47</value>
 				<value>GUID 86d99391-5d85-41d2-93ca-a64f2353bd11</value>
-				<value>GUID 6a8decc4-5a10-471e-8e36-1710caac8587</value>
+				<value>GUID 445616e4-9c63-4f9d-9570-5fcd96e26cd3</value>
 			</AggregatesList>
 		</IUseCase>
 		<IDependency type="e">
@@ -3569,12 +3464,44 @@
 				</INObjectHandle>
 			</_dependent>
 		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 37aa8e66-af06-488e-bc85-a7730fa8e674</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CU08_Generar CDP</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">include</_hname>
+							<_hid type="a">GUID 17ef9a2f-cb89-11d5-b5bf-00d0b780aafd</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">3.1.2021::23:27:27</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::23:28:22</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hid type="a">GUID c53545d9-197b-4dfc-a8c0-6d3feba1ecf0</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hid type="a">GUID 81a00da7-3762-4a1e-ac1c-0218dd120703</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
 		<IInformationFlow type="e">
 			<_id type="a">GUID fe2ebea3-9959-428f-af3c-0647c5549caf</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">CU06_Registro Matricula_CU05_Buscar Curso</_name>
+			<_name type="a">CU06_Registrar Matricula_CU05_Buscar Curso</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::3:37:11</_modifiedTime>
+			<_modifiedTime type="a">3.1.2021::23:27:48</_modifiedTime>
 			<end1_ type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
@@ -3594,7 +3521,7 @@
 			<_myState type="a">10240</_myState>
 			<_name type="a">itsJefe Academico</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::3:35:15</_modifiedTime>
+			<_modifiedTime type="a">3.1.2021::23:27:48</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
@@ -3616,7 +3543,7 @@
 			<_myState type="a">10240</_myState>
 			<_name type="a">itsUsuario</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::3:35:19</_modifiedTime>
+			<_modifiedTime type="a">3.1.2021::23:27:48</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
@@ -3634,11 +3561,11 @@
 			<_navigability type="a">Navigable</_navigability>
 		</IAssociationEnd>
 		<IAssociationEnd type="e">
-			<_id type="a">GUID 6a8decc4-5a10-471e-8e36-1710caac8587</_id>
+			<_id type="a">GUID 445616e4-9c63-4f9d-9570-5fcd96e26cd3</_id>
 			<_myState type="a">10240</_myState>
 			<_name type="a">itsAlumno</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::3:41:5</_modifiedTime>
+			<_modifiedTime type="a">3.1.2021::23:27:48</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
@@ -3649,11 +3576,11 @@
 			<_inverse type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hid type="a">GUID 445616e4-9c63-4f9d-9570-5fcd96e26cd3</_hid>
+					<_hid type="a">GUID 6a8decc4-5a10-471e-8e36-1710caac8587</_hid>
 				</IHandle>
 			</_inverse>
 			<_linkType type="a">Assoc</_linkType>
-			<_navigability type="a">Navigable</_navigability>
+			<_navigability type="a">NonNavigable</_navigability>
 		</IAssociationEnd>
 		<IUseCase type="e">
 			<_id type="a">GUID d9a28108-e3b3-44f5-baba-81dca3d31bfe</_id>
@@ -3829,7 +3756,7 @@
 			<_myState type="a">10240</_myState>
 			<_name type="a">itsUsuario_3</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::3:31:24</_modifiedTime>
+			<_modifiedTime type="a">3.1.2021::23:26:31</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
@@ -3850,7 +3777,7 @@
 			<_id type="a">GUID 9b7ad512-a5a8-4857-b2e0-2a438239e1a1</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">CU02_Registrarse Usuario</_name>
-			<_modifiedTimeWeak type="a">5.26.2013::10:6:34</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">3.2.2021::3:26:17</_modifiedTimeWeak>
 			<_modifiedTime type="a">3.2.2021::3:31:44</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<weakCGTime type="a">3.2.2021::3:26:17</weakCGTime>
@@ -3947,11 +3874,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">0</size>
@@ -3961,9 +3883,10 @@
 		<IUseCase type="e">
 			<_id type="a">GUID c53545d9-197b-4dfc-a8c0-6d3feba1ecf0</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">CU08_Contenido Curso POR DEFINIR</_name>
+			<_name type="a">CU08_Generar CDP</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::3:51:36</_modifiedTime>
+			<_modifiedTime type="a">3.1.2021::23:28:22</_modifiedTime>
+			<_lastID type="a">1</_lastID>
 			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
 			<_itsStateChart type="r">
@@ -3971,11 +3894,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">0</size>
@@ -3990,7 +3908,7 @@
 			<_myState type="a">10240</_myState>
 			<_name type="a">itsAlumno</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::3:51:36</_modifiedTime>
+			<_modifiedTime type="a">3.1.2021::23:28:22</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
@@ -4011,8 +3929,8 @@
 			<_id type="a">GUID 3feec74b-2c29-43d1-8654-188096d224a0</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">CU09_Obtener Certificado</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::3:48:5</_modifiedTime>
+			<_modifiedTimeWeak type="a">3.2.2021::3:47:51</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::23:27:12</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<weakCGTime type="a">3.2.2021::3:47:51</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
@@ -4021,11 +3939,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">0</size>
@@ -4106,7 +4019,7 @@
 			<_myState type="a">10240</_myState>
 			<_name type="a">itsAlumno</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::3:48:5</_modifiedTime>
+			<_modifiedTime type="a">3.1.2021::23:27:12</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
@@ -4121,14 +4034,14 @@
 				</IHandle>
 			</_inverse>
 			<_linkType type="a">Assoc</_linkType>
-			<_navigability type="a">Navigable</_navigability>
+			<_navigability type="a">NonNavigable</_navigability>
 		</IAssociationEnd>
 		<IUseCase type="e">
 			<_id type="a">GUID e7a36409-5aa1-41c6-8628-15420c895567</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">CU00_Mantener sesion</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::3:54:49</_modifiedTime>
+			<_modifiedTime type="a">3.1.2021::23:27:19</_modifiedTime>
 			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
 			<_itsStateChart type="r">
@@ -4136,11 +4049,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">0</size>
@@ -4155,7 +4063,7 @@
 			<_myState type="a">10240</_myState>
 			<_name type="a">itsAdministrados Sistema</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::3:54:49</_modifiedTime>
+			<_modifiedTime type="a">3.1.2021::23:27:19</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
@@ -4170,7 +4078,7 @@
 				</IHandle>
 			</_inverse>
 			<_linkType type="a">Assoc</_linkType>
-			<_navigability type="a">Navigable</_navigability>
+			<_navigability type="a">NonNavigable</_navigability>
 		</IAssociationEnd>
 		<IActor type="e">
 			<_id type="a">GUID 58320c45-07e3-47d0-97bc-956e9091759f</_id>
@@ -4190,9 +4098,10 @@
 			<_id type="a">GUID b5c7a620-55c0-42bc-a7eb-a00d5019a1da</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Alumno</_name>
-			<_modifiedTimeWeak type="a">3.2.2021::3:48:5</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::3:48:5</_modifiedTime>
-			<weakCGTime type="a">3.2.2021::3:48:5</weakCGTime>
+			<_modifiedTimeWeak type="a">3.1.2021::23:27:5</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::23:27:5</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<weakCGTime type="a">3.1.2021::23:27:5</weakCGTime>
 			<strongCGTime type="a">5.26.2013::9:53:40</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -4203,10 +4112,10 @@
 				<value>GUID b9b7ee6b-e783-4dde-9952-86971eb112eb</value>
 				<value>GUID 8534fb2b-833e-4323-8dad-2613d28d59bd</value>
 				<value>GUID 1c6a3770-6e1a-4bae-8918-4b6b3acfd1d4</value>
-				<value>GUID b317722f-af34-40f2-bc0c-020d97731c65</value>
-				<value>GUID 445616e4-9c63-4f9d-9570-5fcd96e26cd3</value>
 				<value>GUID 8b1ecffd-d913-4bff-8845-a3fe850709d5</value>
 				<value>GUID 1414e227-2543-4248-8a56-a1f8a320a5cb</value>
+				<value>GUID 044561ae-d610-4fce-bfa2-e28f58ba9a7c</value>
+				<value>GUID 6a8decc4-5a10-471e-8e36-1710caac8587</value>
 			</AggregatesList>
 		</IActor>
 		<IGeneralization type="e">
@@ -4267,55 +4176,11 @@
 			<_navigability type="a">Navigable</_navigability>
 		</IAssociationEnd>
 		<IAssociationEnd type="e">
-			<_id type="a">GUID b317722f-af34-40f2-bc0c-020d97731c65</_id>
-			<_myState type="a">10240</_myState>
-			<_name type="a">itsCU03_Explorar Cursos_1</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::3:41:2</_modifiedTime>
-			<_multiplicity type="a">1</_multiplicity>
-			<_otherClass type="r">
-				<IClassifierHandle type="e">
-					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hid type="a">GUID 44efc45f-755b-4bc3-b130-fb31825ed48d</_hid>
-				</IClassifierHandle>
-			</_otherClass>
-			<_inverse type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hid type="a">GUID 044561ae-d610-4fce-bfa2-e28f58ba9a7c</_hid>
-				</IHandle>
-			</_inverse>
-			<_linkType type="a">Assoc</_linkType>
-			<_navigability type="a">Navigable</_navigability>
-		</IAssociationEnd>
-		<IAssociationEnd type="e">
-			<_id type="a">GUID 445616e4-9c63-4f9d-9570-5fcd96e26cd3</_id>
-			<_myState type="a">10240</_myState>
-			<_name type="a">itsCU06_Registro Matricula_1</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::3:41:5</_modifiedTime>
-			<_multiplicity type="a">1</_multiplicity>
-			<_otherClass type="r">
-				<IClassifierHandle type="e">
-					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hid type="a">GUID 81a00da7-3762-4a1e-ac1c-0218dd120703</_hid>
-				</IClassifierHandle>
-			</_otherClass>
-			<_inverse type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hid type="a">GUID 6a8decc4-5a10-471e-8e36-1710caac8587</_hid>
-				</IHandle>
-			</_inverse>
-			<_linkType type="a">Assoc</_linkType>
-			<_navigability type="a">Navigable</_navigability>
-		</IAssociationEnd>
-		<IAssociationEnd type="e">
 			<_id type="a">GUID 8b1ecffd-d913-4bff-8845-a3fe850709d5</_id>
 			<_myState type="a">10240</_myState>
-			<_name type="a">itsCU08_Contenido Curso POR DEFINIR</_name>
+			<_name type="a">itsCU08_Generar CDP</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::3:51:36</_modifiedTime>
+			<_modifiedTime type="a">3.1.2021::23:28:22</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
@@ -4337,7 +4202,7 @@
 			<_myState type="a">10240</_myState>
 			<_name type="a">itsCU09_Obtener Certificado</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::3:48:5</_modifiedTime>
+			<_modifiedTime type="a">3.1.2021::23:27:12</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
@@ -4349,6 +4214,50 @@
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
 					<_hid type="a">GUID c7cd7cef-1acd-4785-92fe-30cba25e163a</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 044561ae-d610-4fce-bfa2-e28f58ba9a7c</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCU03_Explorar Cursos_1</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::23:26:48</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hid type="a">GUID 44efc45f-755b-4bc3-b130-fb31825ed48d</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID b317722f-af34-40f2-bc0c-020d97731c65</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 6a8decc4-5a10-471e-8e36-1710caac8587</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCU06_Registrar Matricula</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::23:27:48</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hid type="a">GUID 81a00da7-3762-4a1e-ac1c-0218dd120703</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hid type="a">GUID 445616e4-9c63-4f9d-9570-5fcd96e26cd3</_hid>
 				</IHandle>
 			</_inverse>
 			<_linkType type="a">Assoc</_linkType>
@@ -4372,9 +4281,9 @@
 			<_id type="a">GUID c9c5256d-764e-411a-bd40-2755149aeb18</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Jefe Academico</_name>
-			<_modifiedTimeWeak type="a">3.2.2021::3:35:15</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::3:35:15</_modifiedTime>
-			<weakCGTime type="a">3.2.2021::3:35:15</weakCGTime>
+			<_modifiedTimeWeak type="a">3.1.2021::23:27:48</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::23:27:48</_modifiedTime>
+			<weakCGTime type="a">3.1.2021::23:27:48</weakCGTime>
 			<strongCGTime type="a">5.26.2013::9:53:55</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -4402,9 +4311,9 @@
 		<IAssociationEnd type="e">
 			<_id type="a">GUID b84d209b-5bd6-4503-8132-2ad4a2eafbcb</_id>
 			<_myState type="a">10240</_myState>
-			<_name type="a">itsCU06_Registro Matricula</_name>
+			<_name type="a">itsCU06_Registrar Matricula</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::3:35:15</_modifiedTime>
+			<_modifiedTime type="a">3.1.2021::23:27:48</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
@@ -4535,9 +4444,9 @@
 			<_id type="a">GUID 2def4be1-3403-4fb9-919a-26576fdad0e2</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Usuario</_name>
-			<_modifiedTimeWeak type="a">3.2.2021::3:35:23</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::3:35:23</_modifiedTime>
-			<weakCGTime type="a">3.2.2021::3:35:23</weakCGTime>
+			<_modifiedTimeWeak type="a">3.1.2021::23:26:31</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2021::23:26:31</_modifiedTime>
+			<weakCGTime type="a">3.1.2021::23:26:31</weakCGTime>
 			<strongCGTime type="a">5.26.2013::10:5:22</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -4647,7 +4556,7 @@
 			<_myState type="a">10240</_myState>
 			<_name type="a">itsCU01_Iniciar sesion_3</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::3:31:24</_modifiedTime>
+			<_modifiedTime type="a">3.1.2021::23:26:31</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
@@ -4662,14 +4571,14 @@
 				</IHandle>
 			</_inverse>
 			<_linkType type="a">Assoc</_linkType>
-			<_navigability type="a">Navigable</_navigability>
+			<_navigability type="a">NonNavigable</_navigability>
 		</IAssociationEnd>
 		<IAssociationEnd type="e">
 			<_id type="a">GUID 79269b73-2950-445e-8278-aeca3f2ee8fc</_id>
 			<_myState type="a">10240</_myState>
-			<_name type="a">itsCU06_Registro Matricula</_name>
+			<_name type="a">itsCU06_Registrar Matricula</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::3:35:19</_modifiedTime>
+			<_modifiedTime type="a">3.1.2021::23:27:48</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
@@ -4729,7 +4638,7 @@
 		<IGeneralization type="e">
 			<_id type="a">GUID 5f13f001-9542-4798-97af-f36451b84188</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IActor</_hm2Class>
@@ -4744,7 +4653,7 @@
 			<_myState type="a">10240</_myState>
 			<_name type="a">itsCU00_Mantener sesion</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.2.2021::3:54:49</_modifiedTime>
+			<_modifiedTime type="a">3.1.2021::23:27:19</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
